@@ -1,0 +1,19 @@
+{
+  "name": "hackerrank-problems",
+  "version": "1.0.0",
+  "description": "HackerRank examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresCenci/hackerrank-problems.git"
+  },
+  "author": "Andrés Cenci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndresCenci/hackerrank-problems/issues"
+  },
+  "homepage": "https://github.com/AndresCenci/hackerrank-problems#readme"
+}
